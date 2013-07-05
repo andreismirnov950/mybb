@@ -18,6 +18,7 @@ $templatelist .= ",calendar_event_editbutton,calendar_event_modoptions,calendar_
 
 require_once "./global.php";
 
+// This is needed?
 require_once MYBB_ROOT."inc/functions_calendar.php";
 require_once MYBB_ROOT."inc/functions_post.php";
 require_once MYBB_ROOT."inc/class_parser.php";
