@@ -19,6 +19,7 @@ require_once MYBB_ROOT.'inc/class_captcha.php';
 // Load global language phrases
 $lang->load("contact");
 
+// What does this do? :P
 $plugins->run_hooks('contact_start');
 
 // Make navigation
